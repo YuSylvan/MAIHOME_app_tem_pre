@@ -1,5 +1,7 @@
 # MAI Home app temprature prediction module
 
+## The current model is merely an example and has not been trained.
+
 ## 📂 Project Structure
 
 ```text
